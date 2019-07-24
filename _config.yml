@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Oscr Pocasangre"
+title                    : "Oscar Pocasangre"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "OP"
@@ -115,7 +115,7 @@ author:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-       url: mailto:oscar.pocasangre@columbia.edu
+      # url: mailto:oscar.pocasangre@columbia.edu
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
