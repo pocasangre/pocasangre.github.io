@@ -134,6 +134,24 @@ author:
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
 
+sidebar:
+  - title: "Oscar Pocasangre"
+    image: "/assets/photo.jpg"
+    text: "Political Science PhD Candidate at Columbia"
+    location         : "El Salvador/New York"
+    email            : oscar.pocasangre@columbia.edu
+    twitter          : "oscarpocasangre"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      # url: mailto:oscar.pocasangre@columbia.edu
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      # url: "https://twitter.com/"
+  
+
+  
+
 # Site Footer
 footer:
   links:
