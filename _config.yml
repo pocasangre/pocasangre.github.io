@@ -108,8 +108,7 @@ analytics:
 # Site Author
 author:
   name             : "Oscar Pocasangre"
-  images           : "/assets/photo.jpg"
-  avatar           : # "/assets/photo.jpg"
+  avatar           : "/assets/photo.jpg"
   bio              : "Political Science PhD Candidate at Columbia"
   location         : "El Salvador/New York"
   email            : oscar.pocasangre@columbia.edu
@@ -133,13 +132,6 @@ author:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
-
-sidebar:
-  - title: "Oscar Pocasangre"
-    image: "/assets/photo.jpg"
-    text: "Political Science PhD Candidate at Columbia"
-
-  
 
   
 
