@@ -1,4 +1,4 @@
---
+---
 title: "About Me"
 redirect_from: 
   - /about/
