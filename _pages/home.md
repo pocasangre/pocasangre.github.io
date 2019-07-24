@@ -1,9 +1,9 @@
 ---
 title: ""
 permalink: /
-date: 2019-02-02
 layout: single
 
-### About
-
 ---
+
+### About me:
+I'm a PhD candidate in political science at Columbia University.
