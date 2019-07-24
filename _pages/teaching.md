@@ -1,8 +1,15 @@
 ---
-layout: page
+
 title: "Teaching"
 permalink: /teaching/
-
+defaults:
+  # _pages
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: true
 ---
 
 ### At Columbia
