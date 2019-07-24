@@ -1,7 +1,8 @@
 --
-title: About Me
-tags: [about]
-
+title: "About Me"
+redirect_from: 
+  - /about/
+  - /about.html
 ---
 
 Welcome!
