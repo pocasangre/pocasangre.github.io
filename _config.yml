@@ -108,7 +108,7 @@ analytics:
 # Site Author
 author:
   name             : "Oscar Pocasangre"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/photo.jpg"
   bio              : "Political Science PhD Candidate at Columbia"
   location         : "El Salvador/New York"
   email            : oscar.pocasangre@columbia.edu
