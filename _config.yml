@@ -82,6 +82,9 @@ bing_site_verification   :
 yandex_site_verification :
 naver_site_verification  :
 
+plugins:
+  - jekyll-seo-tag
+  
 # Social Sharing
 twitter:
   username               : 
