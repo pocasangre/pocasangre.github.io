@@ -14,9 +14,11 @@ defaults:
 ---
 
 ### At Columbia
-Introduction to Comparative Politics. Spring 2017, Fall 2018. Instructor: Kimuli Kasara.
+Ending Wars and Building Peace. Summer 2021. Instructor: Sarah Z. Daly. 
 
-Latin American Politics. Fall 2017. Instructor: Victoria Murillo. 
+Introduction to Comparative Politics. Spring 2017, Fall 2018, Fall 2019. Instructor: Kimuli Kasara.
+
+Latin American Politics. Fall 2017, Fall 2020. Instructor: Victoria Murillo. 
 
 Data Analysis and Statistics for Political Science Research. Spring 2018. Instructor: Robert Shapiro.
 
