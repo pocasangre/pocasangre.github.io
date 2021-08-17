@@ -13,4 +13,4 @@ defaults:
 
 ---
 
-You can find my CV [here](/assets/Pocasangre.pdf). 
+You can find my résumé [here](/assets/Oscar Pocasangre 2021) and my academic CV [here](/assets/Pocasangre2021). 
