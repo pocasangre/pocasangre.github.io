@@ -23,11 +23,12 @@ defaults:
 
 [Messaging Interventions that Increase COVID-19 Vaccine Willingness in Latin America](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3812023). (with Pablo Argote Tironi, Elena Barham, Sarah Daly, Julián Gerez, and John Marshall)
 
-Crime or Policy? The Salvadoran Gang Truce and Public Opinion.
-
 The Political Appeal of Crime Policies: Evidence from a Survey Experiment in Mexico.
 
+Crime or Policy? The Salvadoran Gang Truce and Public Opinion.
+
 ### Other Publications
+[What We Learned About Covid-19 Vaccinr Hesitancy and How to Overcome It](https://news.columbia.edu/news/overcome-vaccine-hesitancy-messages). *Columbia News*. 
 
 [Why El Salvador’s Multi-Party System Is On the Brink of Collapse](https://elfaro.net/en/202102/columnas/25273/Why-El-Salvador%E2%80%99s-Multi-Party-System-Is-On-the-Brink-of-Collapse.htm). *El Faro*. 
 
