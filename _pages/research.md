@@ -28,7 +28,7 @@ The Political Appeal of Crime Policies: Evidence from a Survey Experiment in Mex
 Crime or Policy? The Salvadoran Gang Truce and Public Opinion.
 
 ### Other Publications
-[What We Learned About Covid-19 Vaccinr Hesitancy and How to Overcome It](https://news.columbia.edu/news/overcome-vaccine-hesitancy-messages). *Columbia News*. 
+[What We Learned About Covid-19 Vaccine Hesitancy and How to Overcome It](https://news.columbia.edu/news/overcome-vaccine-hesitancy-messages). *Columbia News*. 
 
 [Why El Salvador’s Multi-Party System Is On the Brink of Collapse](https://elfaro.net/en/202102/columnas/25273/Why-El-Salvador%E2%80%99s-Multi-Party-System-Is-On-the-Brink-of-Collapse.htm). *El Faro*. 
 
