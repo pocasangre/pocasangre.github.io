@@ -14,14 +14,14 @@ defaults:
 ---
 
 ### Publications
-[The Shot, the Message, and the Messenger: COVID-19 Vaccine Acceptance in Latin America](https://julianegerez.github.io/research/VaccineHesitancy_Context.pdf). (with Pablo Argote Tironi, Elena Barham, Sarah Daly, Julián Gerez, and John Marshall). *Forthcoming npj: Vaccines.*
+[The Shot, the Message, and the Messenger: COVID-19 Vaccine Acceptance in Latin America](https://www.nature.com/articles/s41541-021-00380-x). (with Pablo Argote, Elena Barham, Sarah Daly, Julián Gerez, and John Marshall). 2021. *npj: Vaccines.*
 
 [Dynamic transparency: An audit of Mexico's Freedom of Information Act](https://onlinelibrary.wiley.com/doi/full/10.1111/padm.12553). (with Paul Lagunes). 2019. *Public Administration*. 
 
 ### Work in Progress
 [Vaccine Diplomacy: How COVID-19 Vaccine Distribution in Latin America Increases Trust in Foreign Governments](/assets/vax_diplomacy_latam.pdf). (with Elena Barham, Sarah Daly, Julián Gerez, and John Marshall)
 
-[Messaging Interventions that Increase COVID-19 Vaccine Willingness in Latin America](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3812023). (with Pablo Argote Tironi, Elena Barham, Sarah Daly, Julián Gerez, and John Marshall)
+[Messaging Interventions that Increase COVID-19 Vaccine Willingness in Latin America](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3812023). (with Pablo Argote, Elena Barham, Sarah Daly, Julián Gerez, and John Marshall)
 
 Crime, Electoral Campaigns, and Credibility.  
 
