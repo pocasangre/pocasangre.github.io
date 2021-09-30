@@ -23,7 +23,7 @@ defaults:
 
 [Messaging Interventions that Increase COVID-19 Vaccine Willingness in Latin America](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3812023). (with Pablo Argote, Elena Barham, Sarah Daly, Julián Gerez, and John Marshall)
 
-Crime, Electoral Campaigns, and Credibility.  
+Strategic Communication Around Crime: Evidence From Mexican Campaign Ads. 
 
 Can Anti-Crime Policies Shape Public Opinion? Evidence from a Survey Experiment from Mexico. 
 
