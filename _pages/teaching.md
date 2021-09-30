@@ -14,7 +14,9 @@ defaults:
 ---
 
 ### At Columbia
-Ending Wars and Building Peace. Summer 2021. Instructor: Sarah Z. Daly. 
+Introduction to Human Rights. Fall 2021. Instructor: Andrew Nathan. 
+
+Ending Wars and Building Peace. Summer 2021. Instructor: Sarah Zukerman Daly. 
 
 Introduction to Comparative Politics. Spring 2017, Fall 2018, Fall 2019. Instructor: Kimuli Kasara.
 
