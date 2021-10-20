@@ -7,9 +7,18 @@ defaults:
       path: ""
       type: pages
     values:
-      layout: single-portfolio
+      layout: single
       author_profile: true
 ---
+
+<style>
+  
+details > p {
+  margin-bottom: 0.25em;
+  padding: 0.125em 0.25em;
+  box-shadow: 1px 1px 2px #bbbbbb;
+}
+</style>
 
 ### Publications
 [Messaging Interventions that Increase COVID-19 Vaccine Willingness in Latin America](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3812023). (with Pablo Argote, Elena Barham, Sarah Daly, Julián Gerez, and John Marshall). *Forthcoming PLOS One.*
