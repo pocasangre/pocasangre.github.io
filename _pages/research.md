@@ -9,7 +9,6 @@ defaults:
     values:
       layout: single-portfolio
       author_profile: true
-
 ---
 
 ### Publications
