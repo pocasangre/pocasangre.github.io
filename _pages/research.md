@@ -1,5 +1,4 @@
 ---
-layout: single-portfolio
 title: "Research"
 permalink: /research/
 defaults:
