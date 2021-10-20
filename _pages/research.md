@@ -24,6 +24,8 @@ defaults:
 [Messaging Interventions that Increase COVID-19 Vaccine Willingness in Latin America](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3812023). (with Pablo Argote, Elena Barham, Sarah Daly, Julián Gerez, and John Marshall)
 
 Strategic Communication Around Crime: Evidence From Mexican Campaign Ads.
+<details><summary>Abstract</summary><p>Campaign messaging is supposed to provide voters with relevant information to select candidates that best align with their interests, but strategic communication by political parties can disrupt this process. Using as a case study the issue of insecurity in Mexico---which is very salient among majorities of citizens and that the literature on crime and politics would predict is an appealing campaign platform---I argue that political parties will communicate strategically about crime in contexts where crime has been persistent and chronic, such that it erodes the credibility of politicians to control it. I gather an original data set of the texts of electoral campaign ads in Mexico from 2012 through 2018 and use natural language processing techniques to classify ads as security related or not. Combining this data with different measures of homicides that capture the persistence of insecurity and with a difference-in-differences design, I show that chronic crime reduces the number of times political parties play a crime related ad. The findings provide evidence of strategic communication by parties in Mexico and have important implications for understanding the supply of anti-crime rhetoric in electoral campaigns.</p>
+</details>
 
 Can Anti-Crime Policies Shape Public Opinion? Evidence from a Survey Experiment from Mexico. 
 
