@@ -7,7 +7,7 @@ defaults:
       path: ""
       type: pages
     values:
-      layout: single
+      layout: single-portfolio
       author_profile: true
 
 ---
