@@ -14,7 +14,7 @@ defaults:
 
 
 ## Publications
-[Messaging Interventions that Increase COVID-19 Vaccine Willingness in Latin America](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3812023). (with Pablo Argote, Elena Barham, Sarah Daly, Julián Gerez, and John Marshall). *Forthcoming: PLOS One.*
+[Messaging Interventions that Increase COVID-19 Vaccine Willingness in Latin America](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0259059). (with Pablo Argote, Elena Barham, Sarah Daly, Julián Gerez, and John Marshall). 2021 *PLOS One.*
 
 [The Shot, the Message, and the Messenger: COVID-19 Vaccine Acceptance in Latin America](https://www.nature.com/articles/s41541-021-00380-x). (with Pablo Argote, Elena Barham, Sarah Daly, Julián Gerez, and John Marshall). 2021. *Nature Partner Journal: Vaccines.*
 
