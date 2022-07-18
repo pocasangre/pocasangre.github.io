@@ -20,7 +20,7 @@ title                    : "Oscar Pocasangre "
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : ""
-description              : "Political Sciene PhD Student at Columbia"
+description              : "PhD in Political Science"
 url                      : https://pocasangre.github.io
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -112,7 +112,7 @@ analytics:
 author:
   name             : #"Oscar Pocasangre"
   avatar           : "/assets/photo.jpg"
-  bio              : "Political Science PhD Candidate at Columbia"
+  bio              : "PhD in Political Science"
   location         : "New York"
   email            : oscar.pocasangre@columbia.edu
   twitter          : "oscarpocasangre"
