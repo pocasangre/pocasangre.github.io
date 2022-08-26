@@ -15,7 +15,8 @@ defaults:
 
 ## Publications
 [Messaging Interventions that Increase COVID-19 Vaccine Willingness in Latin America](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0259059). (with Pablo Argote, Elena Barham, Sarah Daly, Julián Gerez, and John Marshall). 2021. *PLOS One.* 
-Coverage: [Communication Initiative]([url](https://www.comminit.com/covid/content/messages-increase-covid-19-vaccine-acceptance-evidence-online-experiments-six-latin-amer)).
+
+Coverage: [Communication Initiative](https://www.comminit.com/covid/content/messages-increase-covid-19-vaccine-acceptance-evidence-online-experiments-six-latin-amer).
 
 [The Shot, the Message, and the Messenger: COVID-19 Vaccine Acceptance in Latin America](https://www.nature.com/articles/s41541-021-00380-x). (with Pablo Argote, Elena Barham, Sarah Daly, Julián Gerez, and John Marshall). 2021. *Nature Partner Journal: Vaccines.*
 
@@ -23,7 +24,8 @@ Coverage: [Communication Initiative]([url](https://www.comminit.com/covid/conten
 
 ## Work in Progress
 [Vaccine Diplomacy: How COVID-19 Vaccine Distribution in Latin America Increases Trust in Foreign Governments](/assets/Vax_Diplomacy_2022.pdf). (with Elena Barham, Sarah Daly, Julián Gerez, and John Marshall)
-Coverage: [Foreign Policy]([url](https://foreignpolicy.com/2021/11/19/argentina-elections-covid-pandemic-sputnik-v-fernandez-russia-vaccine-diplomacy/?tpcc=recirc_latest062921)).
+
+Coverage: [Foreign Policy](https://foreignpolicy.com/2021/11/19/argentina-elections-covid-pandemic-sputnik-v-fernandez-russia-vaccine-diplomacy/?tpcc=recirc_latest062921).
 
 
 Strategic Communication Around Crime: Evidence From Mexican Campaign Ads. 
