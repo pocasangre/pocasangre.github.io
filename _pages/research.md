@@ -22,12 +22,12 @@ Coverage: [Communication Initiative](https://www.comminit.com/covid/content/mess
 
 [Dynamic transparency: An audit of Mexico's Freedom of Information Act](https://onlinelibrary.wiley.com/doi/full/10.1111/padm.12553). (with Paul Lagunes). 2019. *Public Administration*. 
 
-## Work in Progress
-[Vaccine Diplomacy: How COVID-19 Vaccine Distribution in Latin America Increases Trust in Foreign Governments](/assets/Vax_Diplomacy_2022.pdf). (with Elena Barham, Sarah Daly, Julián Gerez, and John Marshall)
+[Vaccine Diplomacy: How COVID-19 Vaccine Distribution in Latin America Increases Trust in Foreign Governments](/assets/Vax_Diplomacy_2022.pdf). (with Elena Barham, Sarah Daly, Julián Gerez, and John Marshall.) *Conditionally Accepted at World Politics (2023).*
 
 Coverage: [Foreign Policy](https://foreignpolicy.com/2021/11/19/argentina-elections-covid-pandemic-sputnik-v-fernandez-russia-vaccine-diplomacy/?tpcc=recirc_latest062921).
 
 
+## Work in Progress
 Strategic Communication Around Crime: Evidence From Mexican Campaign Ads. 
 <details><summary>Abstract</summary><p>Campaign messaging is supposed to provide voters with relevant information to select candidates that best align with their interests, but strategic communication by political parties can disrupt this process. Using as a case study the issue of insecurity in Mexico - which is very salient among majorities of citizens and that the literature on crime and politics would predict is an appealing campaign platform - I argue that political parties will communicate strategically about crime in contexts where crime has been persistent and chronic, such that it erodes the credibility of politicians to control it. I gather an original data set of the texts of electoral campaign ads in Mexico from 2012 through 2018 and use natural language processing techniques to classify ads as security related or not. Combining this data with different measures of homicides that capture the persistence of insecurity and with a difference-in-differences design, I show that chronic crime reduces the number of times political parties play a crime related ad. The findings provide evidence of strategic communication by parties in Mexico and have important implications for understanding the supply of anti-crime rhetoric in electoral campaigns.</p>
 </details> &nbsp; 
