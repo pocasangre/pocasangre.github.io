@@ -22,7 +22,7 @@ Coverage: [Communication Initiative](https://www.comminit.com/covid/content/mess
 
 [Dynamic transparency: An audit of Mexico's Freedom of Information Act](https://onlinelibrary.wiley.com/doi/full/10.1111/padm.12553). (with Paul Lagunes). 2019. *Public Administration*. 
 
-[Vaccine Diplomacy: How COVID-19 Vaccine Distribution in Latin America Increases Trust in Foreign Governments](/assets/Vax_Diplomacy_2022.pdf). (with Elena Barham, Sarah Daly, Julián Gerez, and John Marshall.) *Conditionally Accepted at World Politics (2023).*
+[Vaccine Diplomacy: How COVID-19 Vaccine Distribution in Latin America Increases Trust in Foreign Governments](/assets/Vax_Diplomacy_2022.pdf). (with Elena Barham, Sarah Daly, Julián Gerez, and John Marshall.) 2023. *Conditionally Accepted at World Politics.*
 
 Coverage: [Foreign Policy](https://foreignpolicy.com/2021/11/19/argentina-elections-covid-pandemic-sputnik-v-fernandez-russia-vaccine-diplomacy/?tpcc=recirc_latest062921).
 
