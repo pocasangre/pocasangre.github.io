@@ -14,7 +14,7 @@ defaults:
 
 
 ## Publications
-[Vaccine Diplomacy: How COVID-19 Vaccine Distribution in Latin America Increases Trust in Foreign Governments](/assets/Vax_Diplomacy_2022.pdf). (with Elena Barham, Sarah Daly, Julián Gerez, and John Marshall.) 2023. *Forthcoming at World Politics.*
+[Vaccine Diplomacy: How COVID-19 Vaccine Distribution in Latin America Increases Trust in Foreign Governments](https://muse.jhu.edu/pub/1/article/908776). (with Elena Barham, Sarah Daly, Julián Gerez, and John Marshall.) 2023. *World Politics.* (Pre-print [here](/assets/Vax_Diplomacy_2022.pdf). 
 
 Coverage: [Foreign Policy](https://foreignpolicy.com/2021/11/19/argentina-elections-covid-pandemic-sputnik-v-fernandez-russia-vaccine-diplomacy/?tpcc=recirc_latest062921).
 
