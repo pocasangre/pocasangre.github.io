@@ -13,4 +13,4 @@ defaults:
 
 ---
 
-You can find my résumé [here](/assets/Oscar Pocasangre Nov23.pdf). 
+You can find my résumé [here](/assets/pocasangre_nov23.pdf). 
