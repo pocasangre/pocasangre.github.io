@@ -35,7 +35,7 @@ Coverage: [Communication Initiative](https://www.comminit.com/covid/content/mess
 
 [Understanding the Partisan Divide: How Demographics and Policy Views Shape Party Coalitions](https://www.newamerica.org/political-reform/reports/understanding-the-partisan-divide/). (with Lee Drutman). *New America Report*. 
 
-[Undecided Voters: Who They Are, What They Want, and How They Decide Our Politics0](https://www.newamerica.org/political-reform/reports/undecided-voters-who-they-are-what-they-want-and-how-they-decide-our-politics/). (with Lee Drutman). *New America Report*.
+[Undecided Voters: Who They Are, What They Want, and How They Decide Our Politics](https://www.newamerica.org/political-reform/reports/undecided-voters-who-they-are-what-they-want-and-how-they-decide-our-politics/). (with Lee Drutman). *New America Report*.
 
 [What We Learned About Covid-19 Vaccine Hesitancy and How to Overcome It](https://news.columbia.edu/news/overcome-vaccine-hesitancy-messages). *Columbia News*. 
 
