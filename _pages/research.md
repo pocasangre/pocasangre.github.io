@@ -14,7 +14,7 @@ classes: wide
 
 
 
-## Publications
+## Peer-Reviewed Publications
 [Vaccine Diplomacy: How COVID-19 Vaccine Distribution in Latin America Increases Trust in Foreign Governments](https://muse.jhu.edu/pub/1/article/908776). (with Elena Barham, Sarah Daly, Julián Gerez, and John Marshall.) 2023. *World Politics.* (Pre-print [here](/assets/barham_daly_gerez_marshall_and_pocasangre_forthcoming_vaccine_diplomacy.pdf)). 
 
 Coverage: [Foreign Policy](https://foreignpolicy.com/2021/11/19/argentina-elections-covid-pandemic-sputnik-v-fernandez-russia-vaccine-diplomacy/?tpcc=recirc_latest062921).
@@ -28,24 +28,15 @@ Coverage: [Communication Initiative](https://www.comminit.com/covid/content/mess
 [Dynamic transparency: An audit of Mexico's Freedom of Information Act](https://onlinelibrary.wiley.com/doi/full/10.1111/padm.12553). (with Paul Lagunes). 2019. *Public Administration*. 
 
 
-## Work in Progress
-Strategic Communication Around Crime: Evidence From Mexican Campaign Ads. 
-<details><summary>Abstract</summary><p>Campaign messaging is supposed to provide voters with relevant information to select candidates that best align with their interests, but strategic communication by political parties can disrupt this process. Using as a case study the issue of insecurity in Mexico - which is very salient among majorities of citizens and that the literature on crime and politics would predict is an appealing campaign platform - I argue that political parties will communicate strategically about crime in contexts where crime has been persistent and chronic, such that it erodes the credibility of politicians to control it. I gather an original data set of the texts of electoral campaign ads in Mexico from 2012 through 2018 and use natural language processing techniques to classify ads as security related or not. Combining this data with different measures of homicides that capture the persistence of insecurity and with a difference-in-differences design, I show that chronic crime reduces the number of times political parties play a crime related ad. The findings provide evidence of strategic communication by parties in Mexico and have important implications for understanding the supply of anti-crime rhetoric in electoral campaigns.</p>
-</details> &nbsp; 
-
-The Electoral Consequences of Campaigning on Crime in Mexico 
-<details><summary>Abstract</summary><p>Does campaigning on crime help parties obtain more votes? I argue that in the context of Mexico, where crime has remained chronic and worsened, campaign messaging about crime will hurt traditional parties like the PAN and the PRI while benefiting the anti-establishment party of López Obrador. Importantly, I hold that there is a temporal dynamic to these effects such that campaign messaging will affect vote shares initially by making a disadvantageous issue for traditional parties salient but eventually have no effect as voters come to see all parties as incompetent at handling crime and campaign ads become electoral noise for cynical ears. Using a research design that exploits differences in radio wave and TV signal coverage stemming from exposure to out of state radio and TV stations in Mexico, I identify the effects of increases in the share of crime related campaign messaging in the 2012 and 2018 presidential elections. Overall, campaign ads on crime do not have much of an effect on the vote shares of the PAN or the PRI, but they benefit AMLO electorally. In precincts in states with chronic crime, the PAN is punished electorally in 2012 the greater the share of crime related ads while AMLO is rewarded, and these effects disappear in 2018. </p>
-</details> &nbsp; 
-
-
-Can Anti-Crime Policies Shape Public Opinion? Evidence from a Survey Experiment from Mexico. 
-<details><summary>Abstract</summary><p>Can anti-crime policies shape public opinion of politician quality? I argue that anti-crime policies can help politicians signal their quality but only insofar as these policies are found to be credible by citizens. I test this argument in an online survey experiment implemented in Mexico that exposes respondents to hypothetical repressive and preventative anti-crime policies proposed by their mayor. Both policies lead to an increase in perceptions of mayoral effectiveness in a different policy domain. However, among citizens who do not find the policies credible — because they think they are ineffective, they think the mayor is incapable at controlling crime, or they blame the government for violence — the anti-crime policies reduce perceptions of politician effectiveness. I also find that actual crime indicators do not moderate these effects, except among respondents who blame the government for insecurity. These findings have important implications for understanding the conditions under which anti-crime policies and rhetoric can be effective at helping politicians garner support.</p>
-</details> &nbsp;  
-
-
-Crime or Policy? The Salvadoran Gang Truce and Public Opinion.
-
 ## Other Publications
+[Argentina’s Elections Are Becoming Dangerously American](https://foreignpolicy.com/2024/02/28/argentina-javier-milei-reform-electoral/). (with Grant Tudor). *Foreign Policy*.
+
+[Democracy Hypocrisy Examining America’s Fragile Democratic Convictions](https://www.newamerica.org/political-reform/policy-papers/democracy-hypocrisy/). (with Joe Goldman and Lee Drutman). *Democracy Fund and New America Report*. 
+
+[Understanding the Partisan Divide: How Demographics and Policy Views Shape Party Coalitions](https://www.newamerica.org/political-reform/reports/understanding-the-partisan-divide/). (with Lee Drutman). *New America Report*. 
+
+[Undecided Voters: Who They Are, What They Want, and How They Decide Our Politics0](https://www.newamerica.org/political-reform/reports/undecided-voters-who-they-are-what-they-want-and-how-they-decide-our-politics/). (with Lee Drutman). *New America Report*.
+
 [What We Learned About Covid-19 Vaccine Hesitancy and How to Overcome It](https://news.columbia.edu/news/overcome-vaccine-hesitancy-messages). *Columbia News*. 
 
 [Why El Salvador’s Multi-Party System Is On the Brink of Collapse](https://elfaro.net/en/202102/columnas/25273/Why-El-Salvador%E2%80%99s-Multi-Party-System-Is-On-the-Brink-of-Collapse.htm). *El Faro*. 
