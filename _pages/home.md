@@ -2,7 +2,7 @@
 title: ""
 permalink: /
 layout: single
-
+classes: wide
 ---
 
 ### About me:
