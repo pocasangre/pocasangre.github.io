@@ -29,7 +29,7 @@ Coverage: [Communication Initiative](https://www.comminit.com/covid/content/mess
 
 
 ## Other Publications
-[Can Proportional Representation Create Better Governance?](https://protectdemocracy.org/work/can-proportional-representation-create-better-governance/). (with John Carey.) *Protect Democracy and New America White Paper*.
+[Can Proportional Representation Create Better Governance?](https://protectdemocracy.org/work/can-proportional-representation-create-better-governance/) (with John Carey.) *Protect Democracy and New America White Paper*.
 
 [Argentina’s Elections Are Becoming Dangerously American](https://foreignpolicy.com/2024/02/28/argentina-javier-milei-reform-electoral/). (with Grant Tudor). *Foreign Policy*.
 
