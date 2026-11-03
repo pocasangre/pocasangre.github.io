@@ -1,0 +1,57 @@
+<!doctype html>
+<html lang="en"><head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Oscar Pocasangre</title>
+<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Figtree:wght@400;500;600;700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="style.css">
+</head><body>
+<div class="layout">
+<aside>
+<a class="name" href="index.html">Oscar<br>Pocasangre</a>
+<div class="photo" role="img" aria-label="Portrait of Oscar Pocasangre"></div>
+<nav>
+<a href="index.html" aria-current="page">About</a>
+<a href="index.html#publications">Publications</a>
+<a href="teaching.html">Teaching</a>
+<a href="cv.html">CV</a>
+</nav>
+<div class="contact">
+<a href="mailto:you@university.edu">Email</a>
+<a href="https://scholar.google.com/citations?user=h4mK9woAAAAJ">Google Scholar</a>
+</div>
+</aside>
+<main>
+<section id="about">
+<h2>About</h2>
+<p>I am a [position] at [institution]. Write two or three sentences here on your research: the questions you study, the regions and methods you work with, and what you are working on now.</p>
+<p>One more sentence on your background or current projects.</p>
+</section>
+
+<section id="publications">
+<h2>Peer-reviewed publications</h2>
+<ul class="pubs">
+<li><a class="t" href="https://muse.jhu.edu/pub/1/article/908776">Vaccine Diplomacy: How COVID-19 Vaccine Distribution in Latin America Increases Trust in Foreign Governments</a><br>
+With Elena Barham, Sarah Daly, Julián Gerez, and John Marshall. <em>World Politics</em>, 2023. <a href="https://pocasangre.github.io/assets/barham_daly_gerez_marshall_and_pocasangre_forthcoming_vaccine_diplomacy.pdf">Pre-print</a><span class="note">Coverage: <a href="https://foreignpolicy.com/2021/11/19/argentina-elections-covid-pandemic-sputnik-v-fernandez-russia-vaccine-diplomacy/?tpcc=recirc_latest062921">Foreign Policy</a></span></li>
+<li><a class="t" href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0259059">Messaging Interventions that Increase COVID-19 Vaccine Willingness in Latin America</a><br>
+With Pablo Argote, Elena Barham, Sarah Daly, Julián Gerez, and John Marshall. <em>PLOS One</em>, 2021.<span class="note">Coverage: <a href="https://www.comminit.com/covid/content/messages-increase-covid-19-vaccine-acceptance-evidence-online-experiments-six-latin-amer">Communication Initiative</a></span></li>
+<li><a class="t" href="https://www.nature.com/articles/s41541-021-00380-x">The Shot, the Message, and the Messenger: COVID-19 Vaccine Acceptance in Latin America</a><br>
+With Pablo Argote, Elena Barham, Sarah Daly, Julián Gerez, and John Marshall. <em>npj Vaccines</em>, 2021.</li>
+<li><a class="t" href="https://onlinelibrary.wiley.com/doi/full/10.1111/padm.12553">Dynamic Transparency: An Audit of Mexico’s Freedom of Information Act</a><br>
+With Paul Lagunes. <em>Public Administration</em>, 2019.</li>
+</ul>
+
+<h2>Other publications</h2>
+<ul class="pubs">
+<li><a class="t" href="https://protectdemocracy.org/work/can-proportional-representation-create-better-governance/">Can Proportional Representation Create Better Governance?</a><br>With John Carey. Protect Democracy and New America white paper.</li>
+<li><a class="t" href="https://foreignpolicy.com/2024/02/28/argentina-javier-milei-reform-electoral/">Argentina’s Elections Are Becoming Dangerously American</a><br>With Grant Tudor. <em>Foreign Policy</em>.</li>
+<li><a class="t" href="https://www.newamerica.org/political-reform/policy-papers/democracy-hypocrisy/">Democracy Hypocrisy: Examining America’s Fragile Democratic Convictions</a><br>With Joe Goldman and Lee Drutman. Democracy Fund and New America report.</li>
+<li><a class="t" href="https://www.newamerica.org/political-reform/reports/understanding-the-partisan-divide/">Understanding the Partisan Divide: How Demographics and Policy Views Shape Party Coalitions</a><br>With Lee Drutman. New America report.</li>
+<li><a class="t" href="https://www.newamerica.org/political-reform/reports/undecided-voters-who-they-are-what-they-want-and-how-they-decide-our-politics/">Undecided Voters: Who They Are, What They Want, and How They Decide Our Politics</a><br>With Lee Drutman. New America report.</li>
+<li><a class="t" href="https://news.columbia.edu/news/overcome-vaccine-hesitancy-messages">What We Learned About Covid-19 Vaccine Hesitancy and How to Overcome It</a><br><em>Columbia News</em>.</li>
+<li><a class="t" href="https://elfaro.net/en/202102/columnas/25273/Why-El-Salvador%E2%80%99s-Multi-Party-System-Is-On-the-Brink-of-Collapse.htm">Why El Salvador’s Multi-Party System Is On the Brink of Collapse</a><br><em>El Faro</em>.</li>
+<li><span class="t">Conditional Cash Transfers: International Experience and Policy Implications</span><br>With Francisca de Iruarrizaga and Francisco Gallego. Book chapter in <a href="https://lyd.org/producto/ingreso-etico-familiar-innovando-la-lucha-la-pobreza/"><em>Ingreso Ético Familiar: Innovando en la Lucha Contra la Pobreza</em></a>.</li>
+</ul>
+</section>
+<footer>&copy; 2026 Oscar Pocasangre</footer></main>
+</div></body></html>
