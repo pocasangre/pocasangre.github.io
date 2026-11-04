@@ -29,6 +29,8 @@ ul.pubs,ul.plain{list-style:none;padding:0;margin:0}
 .when{color:var(--muted);white-space:nowrap}
 footer{color:var(--muted);font-size:.9rem;margin-top:4rem}
 a:focus-visible{outline:2px solid var(--orange);outline-offset:3px}
+.button{display:inline-block;margin-top:.5rem;padding:.65rem 1.3rem;background:var(--orange);color:#fff;font-weight:600;text-decoration:none;border-radius:2px}
+.button:hover{background:var(--ink);color:#fff}
 @media(max-width:800px){
 .layout{grid-template-columns:1fr}
 aside{position:static;height:auto;border-right:0;border-bottom:8px solid var(--orange);padding:2rem 1.5rem 1.5rem;display:grid;grid-template-columns:7rem 1fr;gap:1rem 1.25rem}
